@@ -1,0 +1,3 @@
+# Architecture Community: Communication Guide
+
+## WORK IN PROGRES...
